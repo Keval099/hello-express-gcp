@@ -31,4 +31,4 @@ images:
 - 'gcr.io/upgradlabs-1746162846925/hello-express-service:$COMMIT_SHA'
 
 options:
-  logging: CLOUD_LOGGING_ONLY 
+  logging: CLOUD_LOGGING_ONLY
